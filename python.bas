@@ -10,3 +10,4 @@
 350 IF $=CHR 83; S=1:RETURN         //ЕСЛИ НАЖАТА "S"
 360 RETURN
 500 DRAW X,Y
+510 DRAW X-1,Y
